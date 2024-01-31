@@ -72,6 +72,5 @@ python main.py --option 2
 ## Attribution
 
 参考的仓库
-
-[NHFNET]: https://github.com/ECNU-Cross-Innovation-Lab/NHFNet
+[NHFNET]:(https://github.com/ECNU-Cross-Innovation-Lab/NHFNet)
 

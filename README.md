@@ -57,7 +57,7 @@ python main.py
 python main.py --use_trained True
 ```
 
-这个命令会将执行先前训练好保存下来的模型，输出test_without_label.txt预测结果
+这个命令会将执行先前训练好保存下来的模型，输出test_without_label.txt预测结果,若这里还没有模型，可能需要你先训练一遍，并且修改main.py中output_path的默认值，使它指向你训练好的模型的地址，
 
 
 

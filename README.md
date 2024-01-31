@@ -11,7 +11,6 @@
 │  ├─train.txt#用于训练的图片和数据索引
 │  ├─test_without_label.txt#用于预测的文件的索引
 ├─model#使用的多模态模型
-├─predict#存放输出的result文件
 ├─trained_model#存放训练好的模型的参数
 ├─utility
 │  ├─data_process_utiliy#对data内的数据进行预处理，返回train_loader,val_loader,test_loader
